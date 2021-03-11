@@ -1,0 +1,44 @@
+.banner-container{
+    height:220px;
+    width:100%;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+    position:relative;
+    opacity:0.5;
+}
+
+.league-badge{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    height:100px;
+    background:black;
+    width:80px;
+}
+
+.short-details{
+    background:whitesmoke;
+    border-radius:10px;
+    box-shadow: 5px 5px 10px wheat;
+}
+
+.long-details{
+    background:whitesmoke;
+    color:purple;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.contact-us{
+    border:2px solid black;
+    border-radius:5px;
+    background:black;
+    color:white;
+}
+
+.social-icons a{
+    font-size:20px;
+    color:white;
+}
