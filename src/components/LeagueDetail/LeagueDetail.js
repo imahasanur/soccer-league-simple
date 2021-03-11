@@ -18,7 +18,6 @@ const LeagueDetail = () => {
     .then(data => setLeagueDetails(data.leagues[0]))
   }, [id])
   const {dateFirstEvent, strBadge, strBanner, strCountry, strFacebook, strGender, strLeague, strSport, strTwitter, strYoutube} = leagueDetails;
-
   return (
     <div>
       <div className="banner-container" style={{backgroundImage:`url(${strBanner})`}}>
