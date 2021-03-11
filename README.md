@@ -1,7 +1,7 @@
 # Soccer League Simple Application
 
 This Project is About Football Leagues Information . 
-Leagues Data is Dynamically loaded from [https://www.thesportsdb.com/api.php] (https://www.thesportsdb.com/api.php)  api. 
+Leagues Data is Dynamically loaded from [https://www.thesportsdb.com/api.php](https://www.thesportsdb.com/api.php)  api. 
 From choosing a league from home page it it will redirected to League Detail page.
 
 ## Language in use
